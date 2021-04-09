@@ -473,7 +473,7 @@ public class Accueil extends javax.swing.JFrame {
 
         jLabelDECONXION.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         jLabelDECONXION.setForeground(new java.awt.Color(236, 240, 241));
-        jLabelDECONXION.setText("D�connexion");
+        jLabelDECONXION.setText("Déconnexion");
         jLabelDECONXION.setCursor(new java.awt.Cursor(java.awt.Cursor.HAND_CURSOR));
         jLabelDECONXION.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -590,7 +590,7 @@ public class Accueil extends javax.swing.JFrame {
 
         nom5.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         nom5.setForeground(new java.awt.Color(236, 240, 241));
-        nom5.setText("Nom pr�nom");
+        nom5.setText("Nom prénom");
 
         NomPrenom.setEditable(false);
         NomPrenom.setBackground(new java.awt.Color(44, 62, 80));
@@ -685,7 +685,7 @@ public class Accueil extends javax.swing.JFrame {
         deposer.setBackground(new java.awt.Color(38, 194, 129));
         deposer.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         deposer.setForeground(new java.awt.Color(255, 255, 255));
-        deposer.setText("D�poser");
+        deposer.setText("Déposer");
         deposer.setEnabled(false);
         deposer.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -765,7 +765,7 @@ public class Accueil extends javax.swing.JFrame {
             }
         });
 
-        jButtondesactiver.setText("D�sactiver la carte");
+        jButtondesactiver.setText("Désactiver la carte");
         jButtondesactiver.setEnabled(false);
         jButtondesactiver.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -856,7 +856,7 @@ public class Accueil extends javax.swing.JFrame {
         operations.setBackground(new java.awt.Color(24, 167, 240));
         operations.setFont(new java.awt.Font("Tahoma", 0, 14)); // NOI18N
         operations.setForeground(new java.awt.Color(255, 255, 255));
-        operations.setText("Op�rations");
+        operations.setText("Opérations");
         operations.setEnabled(false);
         operations.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
